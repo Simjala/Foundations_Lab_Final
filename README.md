@@ -14,7 +14,7 @@ version-controlled workbench using VS code and Git.
 By implementing an APA-formatted documentation structure,
  I am ensuring all technical artificats meet professional GRC reporting standards.
 
-#Security Philosphy
+### Security Philosphy
 
 This repository is set up to be an example on how things can be protected by understanding the CIA triad. Confidential as stated from NIST website is “ Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information”(Guru,B 2025 June 9) . Using github, I can insure the confidentiality of this repository by making it private, thus unless I give access to specific individuals or groups. 
 No one else should have access to this repository. Through the logs created during commits I can keep track of the integrity of this repository and see who exactly made any changes if they occur. 
